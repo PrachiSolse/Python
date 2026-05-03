@@ -1,10 +1,10 @@
 # Count number of digits in Integer
-#num=int(input("Enter Number: "))
-#count=0
-#while num>0:
- #   count+=1
-  #  num=num//10
-#print(count)
+num=int(input("Enter Number: "))
+count=0
+while num>0:
+    count+=1
+    num=num//10
+print(count)
 
 
 #Logarithmic Based approach
